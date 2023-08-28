@@ -1,0 +1,15 @@
+C:\Users\wisdo\OneDrive\Desktop\LINQTutorial\LINQTutorial\bin\Debug\net6.0\LINQTutorial.exe
+C:\Users\wisdo\OneDrive\Desktop\LINQTutorial\LINQTutorial\bin\Debug\net6.0\LINQTutorial.deps.json
+C:\Users\wisdo\OneDrive\Desktop\LINQTutorial\LINQTutorial\bin\Debug\net6.0\LINQTutorial.runtimeconfig.json
+C:\Users\wisdo\OneDrive\Desktop\LINQTutorial\LINQTutorial\bin\Debug\net6.0\LINQTutorial.dll
+C:\Users\wisdo\OneDrive\Desktop\LINQTutorial\LINQTutorial\bin\Debug\net6.0\LINQTutorial.pdb
+C:\Users\wisdo\OneDrive\Desktop\LINQTutorial\LINQTutorial\obj\Debug\net6.0\LINQTutorial.csproj.AssemblyReference.cache
+C:\Users\wisdo\OneDrive\Desktop\LINQTutorial\LINQTutorial\obj\Debug\net6.0\LINQTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisdo\OneDrive\Desktop\LINQTutorial\LINQTutorial\obj\Debug\net6.0\LINQTutorial.AssemblyInfoInputs.cache
+C:\Users\wisdo\OneDrive\Desktop\LINQTutorial\LINQTutorial\obj\Debug\net6.0\LINQTutorial.AssemblyInfo.cs
+C:\Users\wisdo\OneDrive\Desktop\LINQTutorial\LINQTutorial\obj\Debug\net6.0\LINQTutorial.csproj.CoreCompileInputs.cache
+C:\Users\wisdo\OneDrive\Desktop\LINQTutorial\LINQTutorial\obj\Debug\net6.0\LINQTutorial.dll
+C:\Users\wisdo\OneDrive\Desktop\LINQTutorial\LINQTutorial\obj\Debug\net6.0\refint\LINQTutorial.dll
+C:\Users\wisdo\OneDrive\Desktop\LINQTutorial\LINQTutorial\obj\Debug\net6.0\LINQTutorial.pdb
+C:\Users\wisdo\OneDrive\Desktop\LINQTutorial\LINQTutorial\obj\Debug\net6.0\LINQTutorial.genruntimeconfig.cache
+C:\Users\wisdo\OneDrive\Desktop\LINQTutorial\LINQTutorial\obj\Debug\net6.0\ref\LINQTutorial.dll
